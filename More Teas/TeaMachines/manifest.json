@@ -1,0 +1,17 @@
+﻿{
+	"Name": "TeaMachines",
+	"Author": "SeWiesa",
+	"Version": "1.0.0",
+	"Description": "Produces Tea from Tealeaves",
+	"UniqueID": "sewiesa.teamachines",
+	"MinimumApiVersion": "4.0.0",
+	"UpdateKeys": [],
+	"ContentPackFor": {
+		"UniqueID": "spacechase0.JsonAssets"
+	},
+	"Dependencies": [
+		{
+			"UniqueID": "sewiesa.teacrops"
+		}
+	]
+}

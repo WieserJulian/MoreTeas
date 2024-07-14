@@ -1,0 +1,29 @@
+{
+	"Name": "Sage",
+	"Description": "Leaves from the Sage plant create a fortifying tea.",
+	"Category": "Flower",
+	"Edibility": 0,
+	"EdibleIsDrink": false,
+	"Price": 35,
+	"IsColored": false,
+	"GiftTastes": {
+		"Love": [
+			"Pam",
+			"Abigail"
+		],
+		"Like": [
+			"Sophia"
+		],
+		"Neutral": [],
+		"Dislike": [
+			"Clint"
+		],
+		"Hate": [
+			"George"
+		]
+	},
+	"ContextTags": [
+		"color_yellow",
+		"dye_medium"
+	]
+}

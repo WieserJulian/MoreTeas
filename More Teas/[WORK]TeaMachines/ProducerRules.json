@@ -1,0 +1,20 @@
+[
+  {
+    //Sage Tea
+    "ProducerName": "Tea Kettle",
+    "InputIdentifier": "Sage",
+    "MinutesUntilReady": 30,
+    "OutputIdentifier": "Sage Tea",
+    "InputPriceBased": true,
+    "OutputPriceIncrement": 0,
+    "OutputPriceMultiplier": 2,
+    "KeepInputQuality": false,
+    "OutputStack": 1,
+    "Sounds": [
+      "Ship",
+      "bubbles"
+    ],
+    "PlacingAnimation": "Bubbles",
+    "PlacingAnimationColorName": "White"
+  }
+]

@@ -1,0 +1,31 @@
+{
+    "Name": "Sage",
+    "Product": "Sage",
+    "SeedName": "Sage Seeds",
+	
+    "SeedDescription": "A year round crop produces soft leaves for a fortifying tea. Takes 8 days to mature, then fresh leaves every 3 days.",
+	
+    "Type": "Flower",
+    "Recipe": {
+        "ResultCount": 1,
+        "IsDefault": true,
+        "CanPurchase": false
+    },
+    "Seasons": ["spring", "summer", "fall", "winter"],
+    "Phases": [ 1, 1, 2, 2, 2 ],
+    "RegrowthPhase": 3,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+	
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 0,
+        "ExtraChance": 0.15
+    },
+		
+	"SeedPurchaseFrom": "Pierre",
+    "SeedPurchasePrice": 60,
+	"SeedSellPrice": 20
+}

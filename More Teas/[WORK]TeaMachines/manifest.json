@@ -1,0 +1,17 @@
+﻿{
+	"Name": "[WORK]TeaMachines",
+	"Author": "SeWiesa",
+	"Version": "1.0.0",
+	"Description": "Produces Tea from Tealeaves",
+	"UniqueID": "sewiesa.workteamachines",
+	"MinimumApiVersion": "4.0.0",
+	"UpdateKeys": [],
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.ProducerFrameworkMod"
+	},
+	"Dependencies": [
+		{
+			"UniqueID": "sewiesa.teamachines"
+		}
+	]
+}

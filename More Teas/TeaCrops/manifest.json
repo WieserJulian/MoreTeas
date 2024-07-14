@@ -1,0 +1,12 @@
+{
+  "Name": "TeaCrops",
+  "Author": "sewiesa",
+  "Description": "Tea crops and items",
+  "Version": "1.0.0",
+  "MinimumApiVersion": "4.0.0",
+  "UniqueID": "sewiesa.teacrops",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.JsonAssets"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Name": "Tea Kettle",
+  "Description": "Turn tealeaves into tea",
+  "ProvidesLight": false,
+  "Recipe": {
+    "ResultCount": 1,
+    "Ingredients": [
+    ],
+    "IsDefault": true,
+    "CanPurchase": false
+  }
+}
